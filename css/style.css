@@ -1,0 +1,21 @@
+.thumbnail
+{
+    width: 138px;
+}
+.thumbnail:hover
+{
+    border-bottom: 7px solid rgb(39, 206, 24);
+    margin-bottom: -7px;
+}
+
+.current
+{
+    border-bottom: 7px solid rgb(59, 212, 20);
+    margin-bottom: -7px;    
+}
+#mainImage
+{
+    width: 310px;
+    height: 400px;
+    margin-bottom: 20px;
+}
